@@ -1,0 +1,36 @@
+/* styles.css */
+
+body, main {
+    display: flex;
+}
+
+body {
+    flex-direction: column;
+}
+
+main {
+    flex-direction: row;
+}
+
+main {
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+header {
+    /* Add styles for the header content */
+}
+
+footer {
+    /* Add styles for the footer content */
+}
+
