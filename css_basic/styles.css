@@ -1,5 +1,11 @@
 /* styles.css */
 
+.logo {
+    font-size: 24px; /* Adjust the font size as needed */
+    color: #FFD700; /* Change the color to your desired logo color */
+    padding: 10px; /* Add padding to the logo for spacing */
+}
+
 body, main {
     display: flex;
 }
